@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.fb556581.css",
+    "main.css": "/static/css/main.bcb5baca.css",
     "main.js": "/static/js/main.62379a64.js",
     "static/media/header-img-residency-test.png": "/static/media/header-img-residency-test.a276a3c42df0253305c0.png",
     "static/media/PPMondwest-Regular.otf": "/static/media/PPMondwest-Regular.ce30e67f1fe842818af2.otf",
@@ -8,11 +8,11 @@
     "static/media/logo.svg": "/static/media/logo.0b15c0cfa183abe088cd2d9fd1ebac78.svg",
     "static/media/arrow-white.svg": "/static/media/arrow-white.dbae7c47813787eee2cf.svg",
     "index.html": "/index.html",
-    "main.fb556581.css.map": "/static/css/main.fb556581.css.map",
+    "main.bcb5baca.css.map": "/static/css/main.bcb5baca.css.map",
     "main.62379a64.js.map": "/static/js/main.62379a64.js.map"
   },
   "entrypoints": [
-    "static/css/main.fb556581.css",
+    "static/css/main.bcb5baca.css",
     "static/js/main.62379a64.js"
   ]
 }
